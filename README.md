@@ -30,3 +30,7 @@ vim abc.txt // abc.txt 파일은 vim 에디터로 열기
 ```bash
 vim -r abc.txt
 ```
+
+## git
+
+* 대표적으로 쓰이는 버전 관리 시스템(Version Control System, VSC)
