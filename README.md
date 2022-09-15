@@ -33,4 +33,9 @@ vim -r abc.txt
 
 ## git
 
-* 대표적으로 쓰이는 버전 관리 시스템(Version Control System, VSC)
+> 대표적으로 쓰이는 버전 관리 시스템(Version Control System, VSC)
+
+### git과 Github의 차이점
+- git은 버전 관리 시스템이다
+- Github는 git이라는 기술을 기반으로 만든 플랫폼
+ - Github에서 만들었는데, Github를 마이크로소프트가 인수함
